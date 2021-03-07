@@ -1,0 +1,2 @@
+- https://towardsdatascience.com/understand-text-summarization-and-create-your-own-summarizer-in-python-b26a9f09fc70?gi=c45bca1fcf0d
+- https://medium.com/@blogsupport/text-summarization-using-deep-learning-techniques-fb9fb628881d
